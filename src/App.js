@@ -86,7 +86,7 @@ function App() {
         </div>
 
    </>
-  ) :  <p>Loading...</p>
+  ) :  <p>FFMPEG wird geladen...kann sich nur um Stunden handeln...</p>
 }
 
 export default React.memo(App);

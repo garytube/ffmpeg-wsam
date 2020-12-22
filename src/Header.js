@@ -4,9 +4,9 @@ function Header({children}) {
   return (
     <>
     <div className="container">
-      <section class="hero">
-  <div class="hero-body">
-    <p class="title">
+      <section className="hero">
+  <div className="hero-body">
+    <p className="title">
       Video Drehen
     </p>
   </div>
